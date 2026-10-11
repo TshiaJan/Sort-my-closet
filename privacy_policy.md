@@ -57,5 +57,5 @@ We may update this Privacy Policy from time to time to reflect game updates or c
 If you have questions, feedback, or concerns regarding this Privacy Policy, please contact:
 
 - **Developer:** Tshiamo Jantjie
-- **Support Email:** tshiajan@gmail.com
+- **Support Email:**janaire.dev@gmail.com
 - **App:** Shelf Sort: Closet Tidy
